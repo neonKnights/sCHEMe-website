@@ -8,3 +8,6 @@
 </a>
 </div>
 
+# SPIS TREŚCI
+
+- [Zadania](./tasks.md)
