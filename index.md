@@ -10,4 +10,5 @@
 
 # SPIS TREŚCI
 
+- [Buildy](./build.md)
 - [Zadania](./tasks.md)
