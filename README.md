@@ -8,7 +8,7 @@
 # sCHEMe-website
 
 website of S(CHEM)E game hosted on:
-- [github.io](https://gucio321.github.io/sCHEMe-website)
+- [github.io](https://neonKnights.github.io/sCHEMe-website)
 - [custom domain](http://scheme.noip.pl/)
 
 # LICENSE
