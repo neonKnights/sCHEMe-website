@@ -1,4 +1,3 @@
-<link rel="shortcut icon" type="image/png" href="/favicon.png">
 <div style="text-align: center">
 
 <h1>WELCOME TO SCHEME PROJECT WEBSITE!</h1>
