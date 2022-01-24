@@ -1,6 +1,6 @@
 <div style="text-align: center">
 
-<h1>WELCOME TO SCHEME PROJECT WEBSITE!</h1>
+<h1>WITAMY NA STRONIE PROJEKTU GRY S(CHEM)E</h1>
 
 <h2>TURNIEJ TRÓJGAMICZNY</h2>
 <a href="https://t3g.pl">
