@@ -12,6 +12,9 @@
 
 ![Mapka](./game_vision/map.png)
 
-- [Królestwo 6 Księstw](./game_vision/Panstwo_1.pdf)
-- [Auskadrin](./game_vision/Panstwo_2.pdf)
-- [Królestwo Elfów](./game_vision/Panstwo_3.pdf)
+## Opisy państw
+
+- [Auskedrin](./game_vision/Panstwo_1.pdf) _by Michał D._
+- [Sułtanat Awabalu](./game_vision/Panstwo_2.pdf) _by Mateusz D._
+- [Miasto Elfów](./game_vision/Panstwo_3.pdf) _by Mikołaj Sz._
+- [Cesarstwo Carlsbergit](./game_vision/Panstwo_4.pdf) _by Amelia S._
