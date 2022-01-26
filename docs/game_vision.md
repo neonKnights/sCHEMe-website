@@ -18,3 +18,12 @@
 - [Sułtanat Awabalu](./game_vision/Panstwo_2.pdf) _by Mateusz D._
 - [Miasto Elfów](./game_vision/Panstwo_3.pdf) _by Mikołaj Sz._
 - [Cesarstwo Carlsbergit](./game_vision/Panstwo_4.pdf) _by Amelia S._
+
+## Państwa, skróty, kolory
+
+| Nazwa Państwa | Skrót | Kolor |
+|---|---|---|
+| Sułtanat Awabalu | Sul | żółty |
+| Auskadrin | Aus | niebieski |
+| Państwo Elfów | Elf | zielony |
+| Cesarstwo Carlsbergit | Car | czerwony |
