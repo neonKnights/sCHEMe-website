@@ -21,6 +21,8 @@
 
 ## Państwa, skróty, kolory
 
+_by Michał D._ - tabela z danymi na temat królestw
+
 | Nazwa Państwa | Skrót | Kolor |
 |---|---|---|
 | Sułtanat Awabalu | Sul | żółty |
