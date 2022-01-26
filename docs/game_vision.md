@@ -9,7 +9,9 @@
 # Fabuła
 
 - Mapka _by Michał D._:
-![Mapka](./game_vision/map.png) thanx @MrWlobo
+
+![Mapka](./game_vision/map.png)
+
 - [Królestwo 6 Księstw](./game_vision/Panstwo_1.pdf)
 - [Auskadrin](./game_vision/Panstwo_2.pdf)
 - [Królestwo Elfów](./game_vision/Panstwo_3.pdf)
