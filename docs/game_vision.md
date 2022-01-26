@@ -1,6 +1,7 @@
 # wizja gry
 
-- [Vision.pdf](./game_vision/Vision.pdf) _by Tomasz D_. - wersja pre-alpha
+- [Vision.pdf](./game_vision/Vision.pdf) _by Tomasz D_. - wersja pre-alpha opisu gry
+- [This is the way](./game_vision/this_is_the_way.pdf) _by Michał D._ - aktualna wersja opisu gry
 - [mechanizm walki](./game_vision/Mechanika_Walki.pdf) _by Tomasz D. & Bartłomiej W._ - szczegółowy opis działania bitew
 - Schemat craftingu pierwiastków _by Bartłomiej W._ - skrótowy schemat działania ataków jednostek podczas bitwy:
 ![mechanizm craftowania pierwiastków](./game_vision/crafting_mechanism.png)
