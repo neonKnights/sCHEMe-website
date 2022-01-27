@@ -13,3 +13,4 @@
 - [Buildy](./build.md)
 - [Zadania](./tasks.md)
 - [Dokumentacja](./docs/game_vision.md)
+- [DevVlog](./devvlog.md)
