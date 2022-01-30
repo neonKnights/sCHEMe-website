@@ -4,7 +4,12 @@
 - [This is the way](./game_vision/this_is_the_way.pdf) _by Michał D._ - aktualna wersja opisu gry
 - [mechanizm walki](./game_vision/Mechanika_Walki.pdf) _by Tomasz D. & Bartłomiej W._ - szczegółowy opis działania bitew
 - Schemat craftingu pierwiastków _by Bartłomiej W._ - skrótowy schemat działania ataków jednostek podczas bitwy:
+
 ![mechanizm craftowania pierwiastków](./game_vision/crafting_mechanism.png)
+
+- Game Flow _by Michał D._
+
+![gameflow](./game_vision/gameflow.png)
 
 # Fabuła
 
