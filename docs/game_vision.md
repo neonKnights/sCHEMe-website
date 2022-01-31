@@ -8,16 +8,10 @@
 ![mechanizm craftowania pierwiastków](./game_vision/crafting_mechanism.png)
 
 - <details><summary>Game FLow <i>by Michał D.</i></summary>
-
-<img src="./game_vision/gameflow.png"></img>
-
-</details>
+<img src="./game_vision/gameflow.png"></details>
 
 - <details><summary>Architektura projektu gry _by Michał D._</summary>
-
-<img src="./game_vision/architecture.png"></img>
-
-</details>
+<img src="./game_vision/architecture.png"></details>
 
 # Fabuła
 
