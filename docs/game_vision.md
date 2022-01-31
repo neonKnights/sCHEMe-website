@@ -9,7 +9,9 @@
 
 - Game Flow _by Michał D._
 
-![gameflow](./game_vision/gameflow.png)
+<details><summary>gameflow</summary>
+<img src="./game_vision/gameflow.png"></img>
+</details>
 
 # Fabuła
 
