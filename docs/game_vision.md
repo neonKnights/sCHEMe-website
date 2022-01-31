@@ -13,6 +13,12 @@
 <img src="./game_vision/gameflow.png"></img>
 </details>
 
+- Architektura projektu gry _by Michał D._
+
+<details><summary>gameflow</summary>
+<img src="./game_vision/architecture.png"></img>
+</details>
+
 # Fabuła
 
 - Mapka _by Michał D._:
