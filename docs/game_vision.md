@@ -7,7 +7,7 @@
 
 ![mechanizm craftowania pierwiastków](./game_vision/crafting_mechanism.png)
 
-- <details><summary>Game FLow <i>by Michał D.</i></summary>
+- <details><summary>Game Flow <i>by Michał D.</i></summary>
 <img src="./game_vision/gameflow.png"></details>
 
 - <details><summary>Architektura projektu gry _by Michał D._</summary>
@@ -21,7 +21,7 @@
 
 ## Opisy państw
 
-- [Auskedrin](./game_vision/Panstwo_1.pdf) _by Michał D._
+- [Auskadrin](./game_vision/Panstwo_1.pdf) _by Michał D._
 - [Sułtanat Awabalu](./game_vision/Panstwo_2.pdf) _by Mateusz D._
 - [Miasto Elfów](./game_vision/Panstwo_3.pdf) _by Mikołaj Sz._
 - [Cesarstwo Carlsbergit](./game_vision/Panstwo_4.pdf) _by Amelia S._
