@@ -10,7 +10,7 @@
 
 # O NASZEJ GRZE
 
-<p style="text-align:center">
+<div style="text-align:center">
 
 <h2>S(CHEM)E</h2>
 
@@ -20,7 +20,7 @@ które reprezentujesz musisz zagwarantować zwycięstwo swojemu władcy. Zawiera
 swoje oddziały oraz walcząc na śmierć i życie za pomocą związków chemicznych może uda ci się odkryć swoją rolę w całym
 tym przedstawieniu.
 
-</p>
+</div>
 
 # SPIS TREŚCI
 
