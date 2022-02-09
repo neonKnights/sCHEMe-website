@@ -27,3 +27,14 @@ tym przedstawieniu.
 - [Dokumentacja](./docs/game_vision.md)
 - [DevVlog](./devvlog.md)
 - [Materiały dodatkowe](./extras.md)
+
+# Kontakt
+
+Jeśli masz jakieś uwagi na temat strony lub gry, przyszły ci na myśl
+sugestie nowych funkcjonalności, chcesz się podzielić swoją opinią
+lub chcesz się z nami skontaktować w innej sprawie,
+[otwórz dyskusję i podziel się tym z nami](https://github.com/neonKnights/sCHEMe-website/issues/new)
+lub napisz na adres neonknightsstudios@gmail.com.
+
+Dziękujemy
+Zespół Neon Knights <neonknightsstudios@gmail.com>
