@@ -43,6 +43,7 @@ państwa pomniejsze:
 
 | Nazwa Państwa | Skrót | Kolor |
 |---|---|---|
+| Saltna | Sal | <font color="#74c963">#74c963 </font> |
 | Calithill | Clt | <font color="#3b799a">#3b799a </font> |
 | Tharon | Tha | <font color="#7572b1"> #7572b1 </font> |
 | Selajam | Slm | <font color="#e7ea29"> #e7ea29 </font> |
