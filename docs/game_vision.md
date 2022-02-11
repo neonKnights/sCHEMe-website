@@ -36,5 +36,14 @@ _by Michał D._ - tabela z danymi na temat królestw
 |---|---|---|
 | Sułtanat Awabalu | Sul | <font color="#d0ba1a" >#d0ba1a</font> |
 | Auskadrin | Aus | <font color="#0a1b7c"> #0a1b7c </font> |
-| Państwo Elfów | Elf | #096127 |
-| Cesarstwo Carlsbergit | Car | #900c0c |
+| Państwo Elfów | Elf | <font color="#096127"> #096127</font> |
+| Cesarstwo Carlsbergit | Car | <font color="#900c0c"> #900c0c</font> |
+
+państwa pomniejsze:
+
+| Nazwa Państwa | Skrót | Kolor |
+|---|---|---|
+| Calithill | Clt | <font color="#3b799a">#3b799a </font> |
+| Tharon | Tha | <font color="#7572b1"> #7572b1 </font> |
+| Selajam | Slm | <font color="#e7ea29"> #e7ea29 </font> |
+| Angwedh | Agw | <font color="#dda01c"> #dda01c </font> |
