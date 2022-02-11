@@ -34,7 +34,7 @@ _by Michał D._ - tabela z danymi na temat królestw
 
 | Nazwa Państwa | Skrót | Kolor |
 |---|---|---|
-| Sułtanat Awabalu | Sul | żółty |
-| Auskadrin | Aus | niebieski |
-| Państwo Elfów | Elf | zielony |
-| Cesarstwo Carlsbergit | Car | czerwony |
+| Sułtanat Awabalu | Sul | <font color="#d0ba1a" >#d0ba1a</font> |
+| Auskadrin | Aus | <font color="#0a1b7c"> #0a1b7c </font> |
+| Państwo Elfów | Elf | #096127 |
+| Cesarstwo Carlsbergit | Car | #900c0c |
