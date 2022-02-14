@@ -30,21 +30,21 @@
 
 ## Państwa, skróty, kolory
 
-_by Michał D._ - tabela z danymi na temat królestw
+_by Amelia S., Michał D., Mateusz D. i Mikołąj Sz._ - tabela z danymi na temat królestw
 
-| Nazwa Państwa | Skrót | Kolor |
-|---|---|---|
-| Sułtanat Awabalu | Sul | <font color="#d0ba1a" >#d0ba1a</font> |
-| Auskadrin | Aus | <font color="#0a1b7c"> #0a1b7c </font> |
-| Państwo Elfów | Elf | <font color="#096127"> #096127</font> |
-| Cesarstwo Carlsbergit | Car | <font color="#900c0c"> #900c0c</font> |
+| Nazwa Państwa         | Skrót | Kolor                                  | Questy                                                  |
+|-----------------------|-------|----------------------------------------|---------------------------------------------------------|
+| Sułtanat Awabalu      | Sul   | <font color="#d0ba1a" >#d0ba1a</font>  |                                                         |
+| Auskadrin             | Aus   | <font color="#0a1b7c"> #0a1b7c </font> | [questy Auskedrinu](./game_vision/quests_auskedrin.pdf) |
+| Państwo Elfów         | Elf   | <font color="#096127"> #096127</font>  | [questy Elfy](game_vision/quests_elfy.pdf)              |
+| Cesarstwo Carlsbergit | Car   | <font color="#900c0c"> #900c0c</font>  | [questy Cesarstwo](game_vision/quests_cesarstwo.pdf)    |
 
 państwa pomniejsze:
 
-| Nazwa Państwa | Skrót | Kolor |
-|---|---|---|
-| Saltna | Sal | <font color="#74c963">#74c963 </font> |
-| Calithill | Clt | <font color="#3b799a">#3b799a </font> |
-| Tharon | Tha | <font color="#7572b1"> #7572b1 </font> |
-| Selajam | Slm | <font color="#e7ea29"> #e7ea29 </font> |
-| Angwedh | Agw | <font color="#dda01c"> #dda01c </font> |
+| Nazwa Państwa | Skrót | Kolor                                  |
+|---------------|-------|----------------------------------------|
+| Saltna        | Sal   | <font color="#74c963">#74c963 </font>  |
+| Calithill     | Clt   | <font color="#3b799a">#3b799a </font>  |
+| Tharon        | Tha   | <font color="#7572b1"> #7572b1 </font> |
+| Selajam       | Slm   | <font color="#e7ea29"> #e7ea29 </font> |
+| Angwedh       | Agw   | <font color="#dda01c"> #dda01c </font> |
