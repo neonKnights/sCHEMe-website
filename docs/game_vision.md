@@ -34,7 +34,7 @@ _by Amelia S., Michał D., Mateusz D. i Mikołąj Sz._ - tabela z danymi na tema
 
 | Nazwa Państwa         | Skrót | Kolor                                  | Questy                                                  |
 |-----------------------|-------|----------------------------------------|---------------------------------------------------------|
-| Sułtanat Awabalu      | Sul   | <font color="#d0ba1a" >#d0ba1a</font>  |                                                         |
+| Sułtanat Awabalu      | Sul   | <font color="#d0ba1a" >#d0ba1a</font>  | [questy Awabal](./game_vision/quests_awbal.pdf)         |
 | Auskadrin             | Aus   | <font color="#0a1b7c"> #0a1b7c </font> | [questy Auskedrinu](./game_vision/quests_auskedrin.pdf) |
 | Państwo Elfów         | Elf   | <font color="#096127"> #096127</font>  | [questy Elfy](game_vision/quests_elfy.pdf)              |
 | Cesarstwo Carlsbergit | Car   | <font color="#900c0c"> #900c0c</font>  | [questy Cesarstwo](game_vision/quests_cesarstwo.pdf)    |
