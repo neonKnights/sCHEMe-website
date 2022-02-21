@@ -1,4 +1,4 @@
-# wizja gry
+# Wizja gry
 
 - [Vision.pdf](./game_vision/Vision.pdf) _by Tomasz D_. - wersja pre-alpha opisu gry
 - [This is the way](./game_vision/this_is_the_way.pdf) _by Michał D._ - aktualna wersja opisu gry
@@ -13,7 +13,13 @@
 
 - Architektura projektu gry _by Michał D._
 
-![Architektura projektu gry](./game_vision/architecture.png)
+<details><summary>scheme</summary>
+
+[//]: # (![Architektura projektu gry]&#40;./game_vision/architecture.png&#41;)
+
+<img src="./game_vision/architecture.png">
+
+</details>
 
 # Fabuła
 
