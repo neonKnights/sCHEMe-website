@@ -10,7 +10,7 @@
 
 # Fabuła
 
-- <details><summary>Mapa podstawowa <i>by Michał D.</i></summary><img src="./game_vision/map.pn"g></details>
+- <details><summary>Mapa podstawowa <i>by Michał D.</i></summary><img src="./game_vision/map.png"></details>
 - <details><summary>Mapa ze ścieżkami patrolowymi i miastami <i>by Game Design Team</i></summary><img src="./game_vision/map_patrols.png"></details>
 
 
