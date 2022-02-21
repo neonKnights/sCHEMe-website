@@ -13,7 +13,7 @@ website of S(CHEM)E game hosted on:
 
 # LICENSE
 
-this project is available GNU General Public License version 3 (GPL3)
+this project is available under GNU General Public License version 3 (GPL3)
 excluding the `Releases` section. Binaries there are under a special
 S(CHEM)E license [for more details see here](./licenses/sCHEMe-LICENSE).
 
