@@ -4,14 +4,14 @@
 - [This is the way](./game_vision/this_is_the_way.pdf) _by Michał D._ - aktualna wersja opisu gry
 - [mechanizm walki](./game_vision/Mechanika_Walki.pdf) _by Tomasz D. & Bartłomiej W._ - szczegółowy opis działania bitew
 
-- <details><summary>Schemat craftingu pierwiastków <i>by Bartłomiej W.</i> - skrótowy schemat działania ataków jednostek podczas bitwy</summary><img src=./game_vision/crafting_mechanism.png></details>
-- <details><summary>Game Flow <i>by Michał D.</i></summary><img src=./game_vision/gameflow.png></details>
+- <details><summary>Schemat craftingu pierwiastków <i>by Bartłomiej W.</i> - skrótowy schemat działania ataków jednostek podczas bitwy</summary><img src="./game_vision/crafting_mechanism.png"></details>
+- <details><summary>Game Flow <i>by Michał D.</i></summary><img src="./game_vision/gameflow.png"></details>
 - <details><summary>Architektura projektu gry by <i>Michał D.</i></summary><img src="./game_vision/architecture.png"></details>
 
 # Fabuła
 
-- <details><summary>Mapa podstawowa <i>by Michał D.</i></summary><img src=./game_vision/map.png></details>
-- <details><summary>Mapa ze ścieżkami patrolowymi i miastami <i>by Game Design Team</i></summary><img src=./game_vision/map_patrols.png></details>
+- <details><summary>Mapa podstawowa <i>by Michał D.</i></summary><img src="./game_vision/map.pn"g></details>
+- <details><summary>Mapa ze ścieżkami patrolowymi i miastami <i>by Game Design Team</i></summary><img src="./game_vision/map_patrols.png"></details>
 
 
 ## Opisy państw
