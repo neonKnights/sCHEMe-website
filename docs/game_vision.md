@@ -3,29 +3,16 @@
 - [Vision.pdf](./game_vision/Vision.pdf) _by Tomasz D_. - wersja pre-alpha opisu gry
 - [This is the way](./game_vision/this_is_the_way.pdf) _by Michał D._ - aktualna wersja opisu gry
 - [mechanizm walki](./game_vision/Mechanika_Walki.pdf) _by Tomasz D. & Bartłomiej W._ - szczegółowy opis działania bitew
-- Schemat craftingu pierwiastków _by Bartłomiej W._ - skrótowy schemat działania ataków jednostek podczas bitwy:
 
-![mechanizm craftowania pierwiastków](./game_vision/crafting_mechanism.png)
-
-- Game Flow _by Michał D._
-
-![Game Flow](./game_vision/gameflow.png)
-
-- Architektura projektu gry _by Michał D._
-
-<details><summary>scheme</summary>
-
-[//]: # (![Architektura projektu gry]&#40;./game_vision/architecture.png&#41;)
-
-<img src="./game_vision/architecture.png">
-
-</details>
+- <details><summary>Schemat craftingu pierwiastków <i>by Bartłomiej W.</i> - skrótowy schemat działania ataków jednostek podczas bitwy</summary><img src=./game_vision/crafting_mechanism.png></details>
+- <details><summary>Game Flow <i>by Michał D.</i></summary><img src=./game_vision/gameflow.png></details>
+- <details><summary>Architektura projektu gry by <i>Michał D.</i></summary><img src="./game_vision/architecture.png"></details>
 
 # Fabuła
 
-- Mapka _by Michał D._:
+- <details><summary>Mapa podstawowa <i>by Michał D.</i></summary><img src=./game_vision/map.png></details>
+- <details><summary>Mapa ze ścieżkami patrolowymi i miastami <i>by Game Design Team</i></summary><img src=./game_vision/map_patrols.png></details>
 
-![Mapka](./game_vision/map.png)
 
 ## Opisy państw
 
@@ -34,7 +21,7 @@
 - [Miasto Elfów](./game_vision/Panstwo_3.pdf) _by Mikołaj Sz._
 - [Cesarstwo Carlsbergit](./game_vision/Panstwo_4.pdf) _by Amelia S._
 
-## Państwa, skróty, kolory
+## Państwa, skróty, kolory, questy
 
 _by Amelia S., Michał D., Mateusz D. i Mikołąj Sz._ - tabela z danymi na temat królestw
 
