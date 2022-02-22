@@ -11,7 +11,8 @@
 # Fabuła
 
 - <details><summary>Mapa podstawowa <i>by Michał D.</i></summary><img src="./game_vision/map.png"></details>
-- <details><summary>Mapa ze ścieżkami patrolowymi i miastami <i>by Game Design Team</i></summary><img src="./game_vision/map_patrols.png"></details>
+- <details><summary>Mapa z miastami i drogami <i>by Game Design Team</i></summary><img src="./game_vision/map_patrols.png"></details>
+- <details><summary>Mapa ze ścieżkami patrolowymi <i>by Game Design Team</i></summary><img src="./game_vision/map_patrol_paths.png"></details>
 
 
 ## Opisy państw
