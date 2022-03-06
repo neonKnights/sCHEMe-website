@@ -35,6 +35,7 @@ jobs:
         with:
           projectPath: ${{ matrix.projectPath }}
           targetPlatform: ${{ matrix.targetPlatform }}
+          gitPrivateToken: ${{ secrets.SCHEME_ACCESS_TOKEN }}
       - uses: actions/upload-artifact@v2
         with:
           name: Build-${{ matrix.targetPlatform }}
