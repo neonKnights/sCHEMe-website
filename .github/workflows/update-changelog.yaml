@@ -1,0 +1,26 @@
+name: Update CHANGELOG
+
+on: [workflow_dispatch]
+
+jobs:
+  buildForAllSupportedPlatforms:
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+    steps:
+      - uses: actions/checkout@v2
+      - name: Set up Ruby 2.6
+        uses: actions/setup-ruby@v1
+        with:
+          ruby-version: 3.0
+      - name: Install github_changelog_generator
+        run: gem install github_changelog_generator
+      - name: Regenerate Changelog
+        run: ./generate_changelog.sh ${{ secrets.SCHEME_ACCESS_TOKEN }}
+      - name: Add and Commit
+        uses: EndBug/add-and-commit@v9 # You can change this to use a specific version.
+        with:
+          add: CHANGELOG.md
+          author_name: actions-user
+          commiter_name: actions-user
+          push: true
