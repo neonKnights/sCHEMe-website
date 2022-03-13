@@ -22,5 +22,7 @@ jobs:
         with:
           add: CHANGELOG.md
           author_name: actions-user
+          author_email: actions-user@users.noreply.github.com
           push: true
           committer_name: actions-user
+          committer_email: actions-user@users.noreply.github.com
