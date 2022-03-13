@@ -23,9 +23,10 @@ tym przedstawieniu.
 # SPIS TREŚCI
 
 - [Buildy](./build.md)
-- [Zadania](./tasks.md)
+- [CHANGELOG](./CHANGELOG.md) - obraz tego, co się u nas dzieje
 - [Dokumentacja](./docs/game_vision.md)
 - [DevVlog](./devvlog.md)
+- [Zadania](./tasks.md)
 - [Materiały dodatkowe](./extras.md)
 
 # Kontakt
