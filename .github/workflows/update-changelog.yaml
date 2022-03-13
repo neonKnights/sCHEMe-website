@@ -22,5 +22,5 @@ jobs:
         with:
           add: CHANGELOG.md
           author_name: actions-user
-          commiter_name: actions-user
           push: true
+          committer_name: actions-user
