@@ -28,6 +28,7 @@
 - hotfix: fix build errors [\#209](https://github.com/CrystalPL/sCHEMe/pull/209) ([gucio321](https://github.com/gucio321))
 - Town refactoring [\#206](https://github.com/CrystalPL/sCHEMe/pull/206) ([gucio321](https://github.com/gucio321))
 - Bug fixes [\#204](https://github.com/CrystalPL/sCHEMe/pull/204) ([Gervanti](https://github.com/Gervanti))
+- github actions workflow [\#203](https://github.com/CrystalPL/sCHEMe/pull/203) ([gucio321](https://github.com/gucio321))
 - escape menu: set panel sprite [\#196](https://github.com/CrystalPL/sCHEMe/pull/196) ([gucio321](https://github.com/gucio321))
 - Enemy refactoring [\#195](https://github.com/CrystalPL/sCHEMe/pull/195) ([gucio321](https://github.com/gucio321))
 - code-refactor-enemy [\#194](https://github.com/CrystalPL/sCHEMe/pull/194) ([CrystalPL](https://github.com/CrystalPL))
