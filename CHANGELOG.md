@@ -1,12 +1,13 @@
 # Changelog
 
-## [Unreleased](https://github.com/CrystalPL/sCHEMe/tree/HEAD)
+## [v0.4](https://github.com/CrystalPL/sCHEMe/tree/v0.4) (2022-03-15)
 
-[Full Changelog](https://github.com/CrystalPL/sCHEMe/compare/v0.3...HEAD)
+[Full Changelog](https://github.com/CrystalPL/sCHEMe/compare/v0.3...v0.4)
 
 **Implemented enhancements:**
 
 - main menu: refactor is necessary [\#38](https://github.com/CrystalPL/sCHEMe/issues/38)
+- Rts camera: limit map [\#220](https://github.com/CrystalPL/sCHEMe/pull/220) ([gucio321](https://github.com/gucio321))
 - panel statystyk postaci: aktualizacja grafik [\#215](https://github.com/CrystalPL/sCHEMe/pull/215) ([gucio321](https://github.com/gucio321))
 - escape menu: handle escape inside escape menu [\#214](https://github.com/CrystalPL/sCHEMe/pull/214) ([gucio321](https://github.com/gucio321))
 - Town types [\#208](https://github.com/CrystalPL/sCHEMe/pull/208) ([gucio321](https://github.com/gucio321))
