@@ -1,12 +1,15 @@
 # Changelog
 
-## [Unreleased](https://github.com/CrystalPL/sCHEMe/tree/HEAD)
+## [v0.4](https://github.com/CrystalPL/sCHEMe/tree/v0.4) (2022-03-15)
 
-[Full Changelog](https://github.com/CrystalPL/sCHEMe/compare/v0.3...HEAD)
+[Full Changelog](https://github.com/CrystalPL/sCHEMe/compare/v0.3...v0.4)
 
 **Implemented enhancements:**
 
 - main menu: refactor is necessary [\#38](https://github.com/CrystalPL/sCHEMe/issues/38)
+- Rts camera: limit map [\#220](https://github.com/CrystalPL/sCHEMe/pull/220) ([gucio321](https://github.com/gucio321))
+- panel statystyk postaci: aktualizacja grafik [\#215](https://github.com/CrystalPL/sCHEMe/pull/215) ([gucio321](https://github.com/gucio321))
+- escape menu: handle escape inside escape menu [\#214](https://github.com/CrystalPL/sCHEMe/pull/214) ([gucio321](https://github.com/gucio321))
 - Town types [\#208](https://github.com/CrystalPL/sCHEMe/pull/208) ([gucio321](https://github.com/gucio321))
 - rts camera: wysokość absolutna [\#207](https://github.com/CrystalPL/sCHEMe/pull/207) ([gucio321](https://github.com/gucio321))
 - rts camera: smooth movement with minimap [\#205](https://github.com/CrystalPL/sCHEMe/pull/205) ([gucio321](https://github.com/gucio321))
@@ -18,6 +21,7 @@
 
 - loading scene: skalowanie do ekranu [\#97](https://github.com/CrystalPL/sCHEMe/issues/97)
 - loading scene: pasek nie dochodzi do końca [\#96](https://github.com/CrystalPL/sCHEMe/issues/96)
+- obszar kamery na minimapie: skalowanie zgodne z kamerą [\#216](https://github.com/CrystalPL/sCHEMe/pull/216) ([gucio321](https://github.com/gucio321))
 
 **Closed issues:**
 
@@ -25,9 +29,16 @@
 
 **Merged pull requests:**
 
+- rearrange game scene [\#219](https://github.com/CrystalPL/sCHEMe/pull/219) ([gucio321](https://github.com/gucio321))
+- workflows: add workflow dispatch event [\#218](https://github.com/CrystalPL/sCHEMe/pull/218) ([gucio321](https://github.com/gucio321))
+- unity test: edit workflow triggers [\#217](https://github.com/CrystalPL/sCHEMe/pull/217) ([gucio321](https://github.com/gucio321))
+- bugfix\(UIController\): check if the panel is an object on scene [\#212](https://github.com/CrystalPL/sCHEMe/pull/212) ([gucio321](https://github.com/gucio321))
+- town menu + escape fix [\#211](https://github.com/CrystalPL/sCHEMe/pull/211) ([gucio321](https://github.com/gucio321))
+- main menu: hard code credits text [\#210](https://github.com/CrystalPL/sCHEMe/pull/210) ([gucio321](https://github.com/gucio321))
 - hotfix: fix build errors [\#209](https://github.com/CrystalPL/sCHEMe/pull/209) ([gucio321](https://github.com/gucio321))
 - Town refactoring [\#206](https://github.com/CrystalPL/sCHEMe/pull/206) ([gucio321](https://github.com/gucio321))
 - Bug fixes [\#204](https://github.com/CrystalPL/sCHEMe/pull/204) ([Gervanti](https://github.com/Gervanti))
+- github actions workflow [\#203](https://github.com/CrystalPL/sCHEMe/pull/203) ([gucio321](https://github.com/gucio321))
 - escape menu: set panel sprite [\#196](https://github.com/CrystalPL/sCHEMe/pull/196) ([gucio321](https://github.com/gucio321))
 - Enemy refactoring [\#195](https://github.com/CrystalPL/sCHEMe/pull/195) ([gucio321](https://github.com/gucio321))
 - code-refactor-enemy [\#194](https://github.com/CrystalPL/sCHEMe/pull/194) ([CrystalPL](https://github.com/CrystalPL))
