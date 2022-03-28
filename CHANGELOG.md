@@ -1,5 +1,38 @@
 # Changelog
 
+## [Unreleased](https://github.com/CrystalPL/sCHEMe/tree/HEAD)
+
+[Full Changelog](https://github.com/CrystalPL/sCHEMe/compare/v0.4...HEAD)
+
+**Implemented enhancements:**
+
+- poskładanie prefabów miast [\#177](https://github.com/CrystalPL/sCHEMe/issues/177)
+- system jednostek [\#87](https://github.com/CrystalPL/sCHEMe/issues/87)
+- loading scene: round procentage progress [\#231](https://github.com/CrystalPL/sCHEMe/pull/231) ([gucio321](https://github.com/gucio321))
+- ui controller: ad pause game feature [\#230](https://github.com/CrystalPL/sCHEMe/pull/230) ([gucio321](https://github.com/gucio321))
+- Map: update map [\#228](https://github.com/CrystalPL/sCHEMe/pull/228) ([gucio321](https://github.com/gucio321))
+- Battles refactoring [\#227](https://github.com/CrystalPL/sCHEMe/pull/227) ([gucio321](https://github.com/gucio321))
+- town costumes: add all town costumes [\#226](https://github.com/CrystalPL/sCHEMe/pull/226) ([gucio321](https://github.com/gucio321))
+
+**Fixed bugs:**
+
+- Loading Scene: zaokrąglanie wyniku procentowego [\#130](https://github.com/CrystalPL/sCHEMe/issues/130)
+- fix enemy interaction [\#222](https://github.com/CrystalPL/sCHEMe/pull/222) ([gucio321](https://github.com/gucio321))
+- hotfix: remove inspector references in escape menu [\#221](https://github.com/CrystalPL/sCHEMe/pull/221) ([gucio321](https://github.com/gucio321))
+
+**Closed issues:**
+
+- code cleanup [\#159](https://github.com/CrystalPL/sCHEMe/issues/159)
+- doświadczenie: przechowywanie expa dla każdego gracza [\#145](https://github.com/CrystalPL/sCHEMe/issues/145)
+- skrypt zarządzający armią [\#116](https://github.com/CrystalPL/sCHEMe/issues/116)
+- system zapisywania: refactoring [\#93](https://github.com/CrystalPL/sCHEMe/issues/93)
+- map: draw map in unity [\#81](https://github.com/CrystalPL/sCHEMe/issues/81)
+
+**Merged pull requests:**
+
+- gitignore: add one of demo scenes that changes randomly [\#225](https://github.com/CrystalPL/sCHEMe/pull/225) ([gucio321](https://github.com/gucio321))
+- Save system refactoring [\#202](https://github.com/CrystalPL/sCHEMe/pull/202) ([gucio321](https://github.com/gucio321))
+
 ## [v0.4](https://github.com/CrystalPL/sCHEMe/tree/v0.4) (2022-03-15)
 
 [Full Changelog](https://github.com/CrystalPL/sCHEMe/compare/v0.3...v0.4)
