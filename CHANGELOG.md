@@ -1,13 +1,15 @@
 # Changelog
 
-## [Unreleased](https://github.com/CrystalPL/sCHEMe/tree/HEAD)
+## [v0.5](https://github.com/CrystalPL/sCHEMe/tree/v0.5) (2022-04-02)
 
-[Full Changelog](https://github.com/CrystalPL/sCHEMe/compare/v0.4...HEAD)
+[Full Changelog](https://github.com/CrystalPL/sCHEMe/compare/v0.4...v0.5)
 
 **Implemented enhancements:**
 
+- dźwięki: dodać dźwięk kliknięcia do guzików [\#223](https://github.com/CrystalPL/sCHEMe/issues/223)
 - poskładanie prefabów miast [\#177](https://github.com/CrystalPL/sCHEMe/issues/177)
 - system jednostek [\#87](https://github.com/CrystalPL/sCHEMe/issues/87)
+- packages: add URP [\#232](https://github.com/CrystalPL/sCHEMe/pull/232) ([gucio321](https://github.com/gucio321))
 - loading scene: round procentage progress [\#231](https://github.com/CrystalPL/sCHEMe/pull/231) ([gucio321](https://github.com/gucio321))
 - ui controller: ad pause game feature [\#230](https://github.com/CrystalPL/sCHEMe/pull/230) ([gucio321](https://github.com/gucio321))
 - Map: update map [\#228](https://github.com/CrystalPL/sCHEMe/pull/228) ([gucio321](https://github.com/gucio321))
@@ -17,6 +19,8 @@
 **Fixed bugs:**
 
 - Loading Scene: zaokrąglanie wyniku procentowego [\#130](https://github.com/CrystalPL/sCHEMe/issues/130)
+- hotfix: enable watter for minimap camera [\#235](https://github.com/CrystalPL/sCHEMe/pull/235) ([gucio321](https://github.com/gucio321))
+- Materials: update to URP \(fix pink trees effect\) [\#233](https://github.com/CrystalPL/sCHEMe/pull/233) ([gucio321](https://github.com/gucio321))
 - fix enemy interaction [\#222](https://github.com/CrystalPL/sCHEMe/pull/222) ([gucio321](https://github.com/gucio321))
 - hotfix: remove inspector references in escape menu [\#221](https://github.com/CrystalPL/sCHEMe/pull/221) ([gucio321](https://github.com/gucio321))
 
@@ -30,6 +34,8 @@
 
 **Merged pull requests:**
 
+- Pause menu and Main Menu sound control [\#237](https://github.com/CrystalPL/sCHEMe/pull/237) ([Gervanti](https://github.com/Gervanti))
+- Adding shaders for grass, water and spilled stuff [\#234](https://github.com/CrystalPL/sCHEMe/pull/234) ([Garnn](https://github.com/Garnn))
 - gitignore: add one of demo scenes that changes randomly [\#225](https://github.com/CrystalPL/sCHEMe/pull/225) ([gucio321](https://github.com/gucio321))
 - Save system refactoring [\#202](https://github.com/CrystalPL/sCHEMe/pull/202) ([gucio321](https://github.com/gucio321))
 
