@@ -1,5 +1,20 @@
 # Changelog
 
+## [Unreleased](https://github.com/CrystalPL/sCHEMe/tree/HEAD)
+
+[Full Changelog](https://github.com/CrystalPL/sCHEMe/compare/v0.5...HEAD)
+
+**Implemented enhancements:**
+
+- listing files: split loading files list into frames [\#241](https://github.com/CrystalPL/sCHEMe/pull/241) ([gucio321](https://github.com/gucio321))
+- rts camera: set default height to 50% [\#240](https://github.com/CrystalPL/sCHEMe/pull/240) ([gucio321](https://github.com/gucio321))
+- Update sound handling [\#239](https://github.com/CrystalPL/sCHEMe/pull/239) ([gucio321](https://github.com/gucio321))
+
+**Merged pull requests:**
+
+- Set company name [\#242](https://github.com/CrystalPL/sCHEMe/pull/242) ([gucio321](https://github.com/gucio321))
+- assets: move all external assets \(from asset store\) into pkg directory [\#238](https://github.com/CrystalPL/sCHEMe/pull/238) ([gucio321](https://github.com/gucio321))
+
 ## [v0.5](https://github.com/CrystalPL/sCHEMe/tree/v0.5) (2022-04-02)
 
 [Full Changelog](https://github.com/CrystalPL/sCHEMe/compare/v0.4...v0.5)
