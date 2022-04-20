@@ -1,5 +1,30 @@
 # Changelog
 
+## [Unreleased](https://github.com/CrystalPL/sCHEMe/tree/HEAD)
+
+[Full Changelog](https://github.com/CrystalPL/sCHEMe/compare/v0.6...HEAD)
+
+**Implemented enhancements:**
+
+- escape menu: add exit game feature [\#254](https://github.com/CrystalPL/sCHEMe/pull/254) ([gucio321](https://github.com/gucio321))
+- camera: add skybox material [\#252](https://github.com/CrystalPL/sCHEMe/pull/252) ([gucio321](https://github.com/gucio321))
+- Nav mesh refactoring & adding bridges [\#251](https://github.com/CrystalPL/sCHEMe/pull/251) ([gucio321](https://github.com/gucio321))
+- game scene: add towns of minor countries [\#250](https://github.com/CrystalPL/sCHEMe/pull/250) ([gucio321](https://github.com/gucio321))
+- map: major improvement [\#249](https://github.com/CrystalPL/sCHEMe/pull/249) ([gucio321](https://github.com/gucio321))
+- map: add NavMeshObstacle component to water canvas [\#248](https://github.com/CrystalPL/sCHEMe/pull/248) ([gucio321](https://github.com/gucio321))
+- add size control to water shader [\#246](https://github.com/CrystalPL/sCHEMe/pull/246) ([Garnn](https://github.com/Garnn))
+- map: improve land [\#245](https://github.com/CrystalPL/sCHEMe/pull/245) ([gucio321](https://github.com/gucio321))
+- Map depatrification [\#244](https://github.com/CrystalPL/sCHEMe/pull/244) ([Garnn](https://github.com/Garnn))
+- Setup game map [\#243](https://github.com/CrystalPL/sCHEMe/pull/243) ([gucio321](https://github.com/gucio321))
+
+**Fixed bugs:**
+
+- Nav mesh: rebake [\#247](https://github.com/CrystalPL/sCHEMe/pull/247) ([gucio321](https://github.com/gucio321))
+
+**Merged pull requests:**
+
+- Adjust sliders colors [\#253](https://github.com/CrystalPL/sCHEMe/pull/253) ([gucio321](https://github.com/gucio321))
+
 ## [v0.6](https://github.com/CrystalPL/sCHEMe/tree/v0.6) (2022-04-06)
 
 [Full Changelog](https://github.com/CrystalPL/sCHEMe/compare/v0.5...v0.6)
