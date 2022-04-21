@@ -42,3 +42,6 @@ państwa pomniejsze:
 | Tharon        | Tha   | <font color="#7572b1"> #7572b1 </font> |
 | Selajam       | Slm   | <font color="#e7ea29"> #e7ea29 </font> |
 | Angwedh       | Agw   | <font color="#dda01c"> #dda01c </font> |
+
+Apropo kolorów jeszcze jeden, który jest dość ważny i często przeze mnie używany:
+<font color="#132978">#132978</font>
