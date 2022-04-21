@@ -1,11 +1,16 @@
 # Changelog
 
-## [Unreleased](https://github.com/CrystalPL/sCHEMe/tree/HEAD)
+## [v0.7](https://github.com/CrystalPL/sCHEMe/tree/v0.7) (2022-04-21)
 
-[Full Changelog](https://github.com/CrystalPL/sCHEMe/compare/v0.6...HEAD)
+[Full Changelog](https://github.com/CrystalPL/sCHEMe/compare/v0.6...v0.7)
 
 **Implemented enhancements:**
 
+- mapa: tekstura wody [\#229](https://github.com/CrystalPL/sCHEMe/issues/229)
+- czcionki: implementacja czcionek w grze [\#165](https://github.com/CrystalPL/sCHEMe/issues/165)
+- miasta: fizyczny wygląd miast [\#133](https://github.com/CrystalPL/sCHEMe/issues/133)
+- main menu: add title [\#257](https://github.com/CrystalPL/sCHEMe/pull/257) ([gucio321](https://github.com/gucio321))
+- Load game dialogs fix [\#256](https://github.com/CrystalPL/sCHEMe/pull/256) ([gucio321](https://github.com/gucio321))
 - escape menu: add exit game feature [\#254](https://github.com/CrystalPL/sCHEMe/pull/254) ([gucio321](https://github.com/gucio321))
 - camera: add skybox material [\#252](https://github.com/CrystalPL/sCHEMe/pull/252) ([gucio321](https://github.com/gucio321))
 - Nav mesh refactoring & adding bridges [\#251](https://github.com/CrystalPL/sCHEMe/pull/251) ([gucio321](https://github.com/gucio321))
@@ -21,8 +26,15 @@
 
 - Nav mesh: rebake [\#247](https://github.com/CrystalPL/sCHEMe/pull/247) ([gucio321](https://github.com/gucio321))
 
+**Closed issues:**
+
+- dźwięk kliknięcia w przycisk [\#224](https://github.com/CrystalPL/sCHEMe/issues/224)
+- menu główne: grafiki do menu [\#176](https://github.com/CrystalPL/sCHEMe/issues/176)
+- loading scene: tło [\#147](https://github.com/CrystalPL/sCHEMe/issues/147)
+
 **Merged pull requests:**
 
+- main menu: update background image [\#255](https://github.com/CrystalPL/sCHEMe/pull/255) ([gucio321](https://github.com/gucio321))
 - Adjust sliders colors [\#253](https://github.com/CrystalPL/sCHEMe/pull/253) ([gucio321](https://github.com/gucio321))
 
 ## [v0.6](https://github.com/CrystalPL/sCHEMe/tree/v0.6) (2022-04-06)
