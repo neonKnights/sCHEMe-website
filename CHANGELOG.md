@@ -1,5 +1,33 @@
 # Changelog
 
+## [Unreleased](https://github.com/CrystalPL/sCHEMe/tree/HEAD)
+
+[Full Changelog](https://github.com/CrystalPL/sCHEMe/compare/v0.7...HEAD)
+
+**Implemented enhancements:**
+
+- questy: bazowe implementacje questów [\#180](https://github.com/CrystalPL/sCHEMe/issues/180)
+- Quest Log [\#85](https://github.com/CrystalPL/sCHEMe/issues/85)
+- Rts camera angle [\#272](https://github.com/CrystalPL/sCHEMe/pull/272) ([gucio321](https://github.com/gucio321))
+- project: add mouse cursor [\#271](https://github.com/CrystalPL/sCHEMe/pull/271) ([gucio321](https://github.com/gucio321))
+- hotfix: fix escape menu poitioning [\#266](https://github.com/CrystalPL/sCHEMe/pull/266) ([gucio321](https://github.com/gucio321))
+- main menu: change options sliders' colors [\#265](https://github.com/CrystalPL/sCHEMe/pull/265) ([gucio321](https://github.com/gucio321))
+- Town menu graphics [\#264](https://github.com/CrystalPL/sCHEMe/pull/264) ([gucio321](https://github.com/gucio321))
+- Quests implementation [\#261](https://github.com/CrystalPL/sCHEMe/pull/261) ([gucio321](https://github.com/gucio321))
+- main menu: add music [\#260](https://github.com/CrystalPL/sCHEMe/pull/260) ([gucio321](https://github.com/gucio321))
+
+**Fixed bugs:**
+
+- towns: fix towns' collider and nav mesh obstacle dimensions positioning [\#269](https://github.com/CrystalPL/sCHEMe/pull/269) ([gucio321](https://github.com/gucio321))
+- hotfix: fix bug when exiting town didn't caused resuming game [\#268](https://github.com/CrystalPL/sCHEMe/pull/268) ([gucio321](https://github.com/gucio321))
+- UI controller: fix bug when pause game feature didn't worked [\#267](https://github.com/CrystalPL/sCHEMe/pull/267) ([gucio321](https://github.com/gucio321))
+- rts camera: change map scrolling speeds [\#263](https://github.com/CrystalPL/sCHEMe/pull/263) ([gucio321](https://github.com/gucio321))
+- player: adjust agent's settings [\#262](https://github.com/CrystalPL/sCHEMe/pull/262) ([gucio321](https://github.com/gucio321))
+
+**Merged pull requests:**
+
+- main menu: hotfix [\#258](https://github.com/CrystalPL/sCHEMe/pull/258) ([gucio321](https://github.com/gucio321))
+
 ## [v0.7](https://github.com/CrystalPL/sCHEMe/tree/v0.7) (2022-04-21)
 
 [Full Changelog](https://github.com/CrystalPL/sCHEMe/compare/v0.6...v0.7)
