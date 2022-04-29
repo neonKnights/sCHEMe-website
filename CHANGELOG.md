@@ -1,8 +1,8 @@
 # Changelog
 
-## [Unreleased](https://github.com/CrystalPL/sCHEMe/tree/HEAD)
+## [v0.8](https://github.com/CrystalPL/sCHEMe/tree/v0.8) (2022-04-29)
 
-[Full Changelog](https://github.com/CrystalPL/sCHEMe/compare/v0.7...HEAD)
+[Full Changelog](https://github.com/CrystalPL/sCHEMe/compare/v0.7...v0.8)
 
 **Implemented enhancements:**
 
