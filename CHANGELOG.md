@@ -1,5 +1,28 @@
 # Changelog
 
+## [Unreleased](https://github.com/CrystalPL/sCHEMe/tree/HEAD)
+
+[Full Changelog](https://github.com/CrystalPL/sCHEMe/compare/v0.8...HEAD)
+
+**Implemented enhancements:**
+
+- typy miast [\#179](https://github.com/CrystalPL/sCHEMe/issues/179)
+- RTSCamera: scale all speeds [\#63](https://github.com/CrystalPL/sCHEMe/issues/63)
+- ui: set player stats panel shortcut to `i` [\#290](https://github.com/CrystalPL/sCHEMe/pull/290) ([gucio321](https://github.com/gucio321))
+- player: set player's nationality to Slm [\#282](https://github.com/CrystalPL/sCHEMe/pull/282) ([gucio321](https://github.com/gucio321))
+- Project cleanup [\#275](https://github.com/CrystalPL/sCHEMe/pull/275) ([gucio321](https://github.com/gucio321))
+
+**Fixed bugs:**
+
+- system saveowania [\#153](https://github.com/CrystalPL/sCHEMe/issues/153)
+- Skróty klawiszowe [\#95](https://github.com/CrystalPL/sCHEMe/issues/95)
+- Save system fixes [\#278](https://github.com/CrystalPL/sCHEMe/pull/278) ([gucio321](https://github.com/gucio321))
+- mouse cursor: fix blank texture in build [\#274](https://github.com/CrystalPL/sCHEMe/pull/274) ([gucio321](https://github.com/gucio321))
+
+**Merged pull requests:**
+
+- fixing lighting on the scene [\#276](https://github.com/CrystalPL/sCHEMe/pull/276) ([Garnn](https://github.com/Garnn))
+
 ## [v0.8](https://github.com/CrystalPL/sCHEMe/tree/v0.8) (2022-04-29)
 
 [Full Changelog](https://github.com/CrystalPL/sCHEMe/compare/v0.7...v0.8)
