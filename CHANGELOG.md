@@ -7,10 +7,17 @@
 **Implemented enhancements:**
 
 - typy miast [\#179](https://github.com/CrystalPL/sCHEMe/issues/179)
+- graficzne przedstawienie naszej armii [\#88](https://github.com/CrystalPL/sCHEMe/issues/88)
 - RTSCamera: scale all speeds [\#63](https://github.com/CrystalPL/sCHEMe/issues/63)
+- Setup enemies [\#291](https://github.com/CrystalPL/sCHEMe/pull/291) ([gucio321](https://github.com/gucio321))
 - ui: set player stats panel shortcut to `i` [\#290](https://github.com/CrystalPL/sCHEMe/pull/290) ([gucio321](https://github.com/gucio321))
 - player: set player's nationality to Slm [\#282](https://github.com/CrystalPL/sCHEMe/pull/282) ([gucio321](https://github.com/gucio321))
+- Town glowing [\#281](https://github.com/CrystalPL/sCHEMe/pull/281) ([gucio321](https://github.com/gucio321))
+- mani menu: refactoring layout [\#280](https://github.com/CrystalPL/sCHEMe/pull/280) ([gucio321](https://github.com/gucio321))
+- Army displayer [\#279](https://github.com/CrystalPL/sCHEMe/pull/279) ([gucio321](https://github.com/gucio321))
+- Shadowcasting [\#277](https://github.com/CrystalPL/sCHEMe/pull/277) ([Garnn](https://github.com/Garnn))
 - Project cleanup [\#275](https://github.com/CrystalPL/sCHEMe/pull/275) ([gucio321](https://github.com/gucio321))
+- tooltips: add town tooltips system [\#273](https://github.com/CrystalPL/sCHEMe/pull/273) ([gucio321](https://github.com/gucio321))
 
 **Fixed bugs:**
 
@@ -19,8 +26,14 @@
 - Save system fixes [\#278](https://github.com/CrystalPL/sCHEMe/pull/278) ([gucio321](https://github.com/gucio321))
 - mouse cursor: fix blank texture in build [\#274](https://github.com/CrystalPL/sCHEMe/pull/274) ([gucio321](https://github.com/gucio321))
 
+**Closed issues:**
+
+- wrogowie na mapie [\#286](https://github.com/CrystalPL/sCHEMe/issues/286)
+- tooltipy na miastach i wrogach [\#285](https://github.com/CrystalPL/sCHEMe/issues/285)
+
 **Merged pull requests:**
 
+- sun: apply script to prefab [\#292](https://github.com/CrystalPL/sCHEMe/pull/292) ([gucio321](https://github.com/gucio321))
 - fixing lighting on the scene [\#276](https://github.com/CrystalPL/sCHEMe/pull/276) ([Garnn](https://github.com/Garnn))
 
 ## [v0.8](https://github.com/CrystalPL/sCHEMe/tree/v0.8) (2022-04-29)
