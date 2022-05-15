@@ -6,6 +6,9 @@
 - [Wersja 0.3 (luty 2022)](https://github.com/gucio321/sCHEMe-website/releases/tag/v0.3)
 - [Wersja 0.4 (marzec 2022)](https://github.com/gucio321/sCHEMe-website/releases/tag/v0.4)
 - [Wersja 0.5 (kwiecień 2022)](https://github.com/gucio321/sCHEMe-website/releases/tag/v0.5)
+- [Wersja 0.6 (kwiecień 2022)](https://github.com/gucio321/sCHEMe-website/releases/tag/v0.6)
+- [Wersja 0.7 (kwiecień 2022)](https://github.com/gucio321/sCHEMe-website/releases/tag/v0.7)
+- [Wersja 0.8 (kwiecień 2022)](https://github.com/gucio321/sCHEMe-website/releases/tag/v0.8)
 
 <h1>Uwagi? Sugestie? Błędy? <a href="https://github.com/neonKnights/sCHEMe-website/issues/new">otwórz dyskusję i daj nam znać!</a></h1>
 <h2>z niecierpliwością czekamy!</h2>
