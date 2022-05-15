@@ -6,9 +6,14 @@
 
 **Implemented enhancements:**
 
+- implementacja tematyki UI [\#181](https://github.com/CrystalPL/sCHEMe/issues/181)
 - typy miast [\#179](https://github.com/CrystalPL/sCHEMe/issues/179)
 - graficzne przedstawienie naszej armii [\#88](https://github.com/CrystalPL/sCHEMe/issues/88)
 - RTSCamera: scale all speeds [\#63](https://github.com/CrystalPL/sCHEMe/issues/63)
+- game panel: disable panel buttons when game paused [\#300](https://github.com/CrystalPL/sCHEMe/pull/300) ([gucio321](https://github.com/gucio321))
+- Town menu: hire screen [\#298](https://github.com/CrystalPL/sCHEMe/pull/298) ([gucio321](https://github.com/gucio321))
+- Update UI graphics [\#294](https://github.com/CrystalPL/sCHEMe/pull/294) ([gucio321](https://github.com/gucio321))
+- loading scene: refine setup: [\#293](https://github.com/CrystalPL/sCHEMe/pull/293) ([gucio321](https://github.com/gucio321))
 - Setup enemies [\#291](https://github.com/CrystalPL/sCHEMe/pull/291) ([gucio321](https://github.com/gucio321))
 - ui: set player stats panel shortcut to `i` [\#290](https://github.com/CrystalPL/sCHEMe/pull/290) ([gucio321](https://github.com/gucio321))
 - player: set player's nationality to Slm [\#282](https://github.com/CrystalPL/sCHEMe/pull/282) ([gucio321](https://github.com/gucio321))
@@ -23,6 +28,7 @@
 
 - system saveowania [\#153](https://github.com/CrystalPL/sCHEMe/issues/153)
 - Skróty klawiszowe [\#95](https://github.com/CrystalPL/sCHEMe/issues/95)
+- hire army menu: bunch of fixes [\#299](https://github.com/CrystalPL/sCHEMe/pull/299) ([gucio321](https://github.com/gucio321))
 - Save system fixes [\#278](https://github.com/CrystalPL/sCHEMe/pull/278) ([gucio321](https://github.com/gucio321))
 - mouse cursor: fix blank texture in build [\#274](https://github.com/CrystalPL/sCHEMe/pull/274) ([gucio321](https://github.com/gucio321))
 
@@ -30,9 +36,14 @@
 
 - wrogowie na mapie [\#286](https://github.com/CrystalPL/sCHEMe/issues/286)
 - tooltipy na miastach i wrogach [\#285](https://github.com/CrystalPL/sCHEMe/issues/285)
+- game over [\#284](https://github.com/CrystalPL/sCHEMe/issues/284)
+- UI: stworzyć schemat/tematyke paneli UI [\#59](https://github.com/CrystalPL/sCHEMe/issues/59)
 
 **Merged pull requests:**
 
+- Second graphics update [\#297](https://github.com/CrystalPL/sCHEMe/pull/297) ([gucio321](https://github.com/gucio321))
+- Game over screen [\#296](https://github.com/CrystalPL/sCHEMe/pull/296) ([Gervanti](https://github.com/Gervanti))
+- Fixed Sound Mixer bug [\#295](https://github.com/CrystalPL/sCHEMe/pull/295) ([Gervanti](https://github.com/Gervanti))
 - sun: apply script to prefab [\#292](https://github.com/CrystalPL/sCHEMe/pull/292) ([gucio321](https://github.com/gucio321))
 - fixing lighting on the scene [\#276](https://github.com/CrystalPL/sCHEMe/pull/276) ([Garnn](https://github.com/Garnn))
 
