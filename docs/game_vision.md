@@ -3,6 +3,7 @@
 - [Vision.pdf](./game_vision/Vision.pdf) _by Tomasz D_. - wersja pre-alpha opisu gry
 - [This is the way](./game_vision/this_is_the_way.pdf) _by Michał D._ - aktualna wersja opisu gry
 - [mechanizm walki](./game_vision/Mechanika_Walki.pdf) _by Tomasz D. & Bartłomiej W._ - szczegółowy opis działania bitew
+- [AI w bitwach](./game_vision/scheme_ai.pdf) _by Maciej Sz._ - schemat działąnia AI podczas bitew
 
 - <details><summary>Schemat craftingu pierwiastków <i>by Bartłomiej W.</i> - skrótowy schemat działania ataków jednostek podczas bitwy</summary><img src="./game_vision/crafting_mechanism.png"></details>
 - <details><summary>Game Flow <i>by Michał D.</i></summary><img src="./game_vision/gameflow.png"></details>
