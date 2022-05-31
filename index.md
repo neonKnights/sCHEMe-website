@@ -11,6 +11,7 @@
 # O NASZEJ GRZE
 <div style="text-align:center">
 <h2>S(CHEM)E</h2>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KysGj_EtDaw?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 Budzisz się w wielkim zamczysku w ponury, deszczowy dzień. Nie możesz sobie przypomnieć, jak się tu znalazłeś.
 Wiesz jedynie, że zbliża się wojna między królestwami, a ty, jako świeżo upieczony wódz jednej z armii państwa
 które reprezentujesz musisz zagwarantować zwycięstwo swojemu władcy. Zawierając niepewne sojusze, budując i szkoląc
