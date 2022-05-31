@@ -2,12 +2,26 @@
 
 ## [Unreleased](https://github.com/gucio321/sCHEMe/tree/HEAD)
 
-[Full Changelog](https://github.com/gucio321/sCHEMe/compare/v0.8...HEAD)
+[Full Changelog](https://github.com/gucio321/sCHEMe/compare/v1.0...HEAD)
+
+**Closed issues:**
+
+- NPCs: ustawienie bazowych armii [\#344](https://github.com/gucio321/sCHEMe/issues/344)
+
+**Merged pull requests:**
+
+- Reaction editor: fixes [\#383](https://github.com/gucio321/sCHEMe/pull/383) ([gucio321](https://github.com/gucio321))
+- scripts: restrict some code for editor only - fix build errors [\#382](https://github.com/gucio321/sCHEMe/pull/382) ([gucio321](https://github.com/gucio321))
+
+## [v1.0](https://github.com/gucio321/sCHEMe/tree/v1.0) (2022-05-30)
+
+[Full Changelog](https://github.com/gucio321/sCHEMe/compare/v0.8...v1.0)
 
 **Implemented enhancements:**
 
 - saveing countries relations [\#325](https://github.com/gucio321/sCHEMe/issues/325)
 - tutorial [\#303](https://github.com/gucio321/sCHEMe/issues/303)
+- music [\#259](https://github.com/gucio321/sCHEMe/issues/259)
 - implementacja tematyki UI [\#181](https://github.com/gucio321/sCHEMe/issues/181)
 - typy miast [\#179](https://github.com/gucio321/sCHEMe/issues/179)
 - quests: zmiana relacji z pańśtwami po przejściu `lini fabularnej` [\#152](https://github.com/gucio321/sCHEMe/issues/152)
@@ -17,8 +31,10 @@
 - bitwy: renderowanie armii [\#141](https://github.com/gucio321/sCHEMe/issues/141)
 - battles: background-battle mechanism [\#140](https://github.com/gucio321/sCHEMe/issues/140)
 - rozpoczynanie bitwy [\#92](https://github.com/gucio321/sCHEMe/issues/92)
+- edytor reakcji chemicznych [\#89](https://github.com/gucio321/sCHEMe/issues/89)
 - graficzne przedstawienie naszej armii [\#88](https://github.com/gucio321/sCHEMe/issues/88)
 - RTSCamera: scale all speeds [\#63](https://github.com/gucio321/sCHEMe/issues/63)
+- hud: add tutorial button [\#377](https://github.com/gucio321/sCHEMe/pull/377) ([gucio321](https://github.com/gucio321))
 - Enemies levels [\#342](https://github.com/gucio321/sCHEMe/pull/342) ([gucio321](https://github.com/gucio321))
 - game scene: set player's name [\#339](https://github.com/gucio321/sCHEMe/pull/339) ([gucio321](https://github.com/gucio321))
 - setup Sultanat's quests [\#338](https://github.com/gucio321/sCHEMe/pull/338) ([gucio321](https://github.com/gucio321))
@@ -55,6 +71,9 @@
 - relations: complete work on relationships [\#307](https://github.com/gucio321/sCHEMe/issues/307)
 - system saveowania [\#153](https://github.com/gucio321/sCHEMe/issues/153)
 - Skróty klawiszowe [\#95](https://github.com/gucio321/sCHEMe/issues/95)
+- enemy: update tooltip on enable' [\#378](https://github.com/gucio321/sCHEMe/pull/378) ([gucio321](https://github.com/gucio321))
+- game data: reset when exiting game [\#376](https://github.com/gucio321/sCHEMe/pull/376) ([gucio321](https://github.com/gucio321))
+- NPCs: fix NavMeshAgent's size [\#375](https://github.com/gucio321/sCHEMe/pull/375) ([gucio321](https://github.com/gucio321))
 - countries: fix nationality of slm town [\#352](https://github.com/gucio321/sCHEMe/pull/352) ([gucio321](https://github.com/gucio321))
 - bunch of bugfixes [\#345](https://github.com/gucio321/sCHEMe/pull/345) ([gucio321](https://github.com/gucio321))
 - Hotfix: fix some bugs in enemy state [\#335](https://github.com/gucio321/sCHEMe/pull/335) ([gucio321](https://github.com/gucio321))
@@ -68,6 +87,8 @@
 **Closed issues:**
 
 - player: implement player costume [\#289](https://github.com/gucio321/sCHEMe/issues/289)
+- menu stolic: system rekrutacji wojska [\#288](https://github.com/gucio321/sCHEMe/issues/288)
+- poustawianie questów [\#287](https://github.com/gucio321/sCHEMe/issues/287)
 - wrogowie na mapie [\#286](https://github.com/gucio321/sCHEMe/issues/286)
 - tooltipy na miastach i wrogach [\#285](https://github.com/gucio321/sCHEMe/issues/285)
 - game over [\#284](https://github.com/gucio321/sCHEMe/issues/284)
@@ -79,8 +100,13 @@
 
 **Merged pull requests:**
 
+- Reaction polishing [\#381](https://github.com/gucio321/sCHEMe/pull/381) ([Garnn](https://github.com/Garnn))
+- derid: set base army [\#380](https://github.com/gucio321/sCHEMe/pull/380) ([gucio321](https://github.com/gucio321))
+- Add armies [\#379](https://github.com/gucio321/sCHEMe/pull/379) ([gucio321](https://github.com/gucio321))
+- reaction editor: add instruction [\#374](https://github.com/gucio321/sCHEMe/pull/374) ([gucio321](https://github.com/gucio321))
 - tutorial: update text [\#373](https://github.com/gucio321/sCHEMe/pull/373) ([gucio321](https://github.com/gucio321))
 - escape handling in town menu [\#372](https://github.com/gucio321/sCHEMe/pull/372) ([gucio321](https://github.com/gucio321))
+- molecues stats [\#371](https://github.com/gucio321/sCHEMe/pull/371) ([gucio321](https://github.com/gucio321))
 - quests: setup quests rewards [\#370](https://github.com/gucio321/sCHEMe/pull/370) ([gucio321](https://github.com/gucio321))
 - reaction editor: add exit button [\#369](https://github.com/gucio321/sCHEMe/pull/369) ([gucio321](https://github.com/gucio321))
 - capital menu: fix bug when was unable to open editor [\#368](https://github.com/gucio321/sCHEMe/pull/368) ([gucio321](https://github.com/gucio321))
