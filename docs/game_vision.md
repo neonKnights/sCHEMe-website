@@ -1,12 +1,12 @@
 # Wizja gry
 
-- [Vision.pdf](./game_vision/Vision.pdf) _by Tomasz D_. - wersja pre-alpha opisu gry
+- [Vision.pdf](./game_vision/Vision.pdf) _by Tomasz D_. - wersja pre-alpha opisu gry \*
 - [This is the way](./game_vision/this_is_the_way.pdf) _by Michał D._ - aktualna wersja opisu gry
-- [mechanizm walki](./game_vision/Mechanika_Walki.pdf) _by Tomasz D. & Bartłomiej W._ - szczegółowy opis działania bitew
+- [mechanizm walki](./game_vision/Mechanika_Walki.pdf) _by Tomasz D. & Bartłomiej W._ - szczegółowy opis działania bitew \*
 - [AI w bitwach](./game_vision/scheme_ai.pdf) _by Maciej Sz._ - schemat działania AI podczas bitew
 - [Maszyna stanów NPCa](./game_vision/sCHEMe_enemy_state_scheme.pdf) _by Maciej Sz._ - schemat działania maszyny stanów u NPCów
 
-- <details><summary>Schemat craftingu pierwiastków <i>by Bartłomiej W.</i> - skrótowy schemat działania ataków jednostek podczas bitwy</summary><img src="./game_vision/crafting_mechanism.png"></details>
+- <details><summary>Schemat craftingu pierwiastków <i>by Bartłomiej W.</i> - skrótowy schemat działania ataków jednostek podczas bitwy **</summary><img src="./game_vision/crafting_mechanism.png"></details>
 - <details><summary>Game Flow <i>by Michał D.</i></summary><img src="./game_vision/gameflow.png"></details>
 - <details><summary>Architektura projektu gry by <i>Michał D.</i></summary><img src="./game_vision/architecture.png"></details>
 
@@ -47,3 +47,7 @@ państwa pomniejsze:
 
 Apropo kolorów jeszcze jeden, który jest dość ważny i często przeze mnie używany:
 <font color="#132978">#132978</font>
+
+---
+\* - nieaktualne \
+\*\* - częściowo nieaktualne
