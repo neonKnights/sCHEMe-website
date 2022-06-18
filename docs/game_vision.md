@@ -5,6 +5,7 @@
 - [mechanizm walki](./game_vision/Mechanika_Walki.pdf) _by Tomasz D. & Bartłomiej W._ - szczegółowy opis działania bitew \*
 - [AI w bitwach](./game_vision/scheme_ai.pdf) _by Maciej Sz._ - schemat działania AI podczas bitew
 - [Maszyna stanów NPCa](./game_vision/sCHEMe_enemy_state_scheme.pdf) _by Maciej Sz._ - schemat działania maszyny stanów u NPCów
+- [Reakcje chemiczne + statystyki związków](./game_vision/sCHEMe_reactions.pdf) _by Bartłomiej W. & Michał D._ - możliwe do przeprowadzenia reakcje chemiczne oraz statystyki związków chemicznych (atak/leczenie/żywotność)
 
 - <details><summary>Schemat craftingu pierwiastków <i>by Bartłomiej W.</i> - skrótowy schemat działania ataków jednostek podczas bitwy **</summary><img src="./game_vision/crafting_mechanism.png"></details>
 - <details><summary>Game Flow <i>by Michał D.</i></summary><img src="./game_vision/gameflow.png"></details>
