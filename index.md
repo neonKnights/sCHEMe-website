@@ -43,3 +43,9 @@ lub napisz na adres <neonknightsstudios@gmail.com>.
 
 Dziękujemy \
 Zespół Neon Knights <neonknightsstudios@gmail.com>
+
+# PODZIĘKOWANIA
+
+Podziękowania dla [Fundacji Fundusz Lokalny Ziemi Biłgorajskiej](https://flzb.lbl.pl)
+za współfinansowanie sprzętu komputerowego wykorzystywanego podczas
+pracy nad projektem.
