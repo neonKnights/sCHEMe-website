@@ -1,15 +1,36 @@
 # Changelog
 
-## [Unreleased](https://github.com/gucio321/sCHEMe/tree/HEAD)
+## [v1.1](https://github.com/gucio321/sCHEMe/tree/v1.1) (2022-06-14)
 
-[Full Changelog](https://github.com/gucio321/sCHEMe/compare/v1.0...HEAD)
+[Full Changelog](https://github.com/gucio321/sCHEMe/compare/v1.0...v1.1)
+
+**Implemented enhancements:**
+
+- battles/grid: implement selecting units on a grid [\#270](https://github.com/gucio321/sCHEMe/issues/270)
 
 **Closed issues:**
 
 - NPCs: ustawienie bazowych armii [\#344](https://github.com/gucio321/sCHEMe/issues/344)
+- questy: kara za niewykonanie questa [\#178](https://github.com/gucio321/sCHEMe/issues/178)
+- questy psujące relacje z innymi państwami [\#175](https://github.com/gucio321/sCHEMe/issues/175)
+- Prezentacja zespołu + gry [\#65](https://github.com/gucio321/sCHEMe/issues/65)
 
 **Merged pull requests:**
 
+- bugfix: fix critical issues [\#397](https://github.com/gucio321/sCHEMe/pull/397) ([gucio321](https://github.com/gucio321))
+- capital menu: fix bug when sometimes game ui was visible inside of capital [\#396](https://github.com/gucio321/sCHEMe/pull/396) ([gucio321](https://github.com/gucio321))
+- hire menu: fix bug when removing unit caused duplicating it [\#395](https://github.com/gucio321/sCHEMe/pull/395) ([gucio321](https://github.com/gucio321))
+- readme: worword to scheme-website for docs [\#394](https://github.com/gucio321/sCHEMe/pull/394) ([gucio321](https://github.com/gucio321))
+- reaction editor: make price counting more suitable [\#393](https://github.com/gucio321/sCHEMe/pull/393) ([gucio321](https://github.com/gucio321))
+- Fix bug with ChancesRate [\#392](https://github.com/gucio321/sCHEMe/pull/392) ([gucio321](https://github.com/gucio321))
+- Setup part of assembly deffinitions [\#391](https://github.com/gucio321/sCHEMe/pull/391) ([gucio321](https://github.com/gucio321))
+- bugifixes in battle [\#390](https://github.com/gucio321/sCHEMe/pull/390) ([gucio321](https://github.com/gucio321))
+- bunch of fixes [\#389](https://github.com/gucio321/sCHEMe/pull/389) ([gucio321](https://github.com/gucio321))
+- reaction editor: fix arrows removing when deleting field [\#388](https://github.com/gucio321/sCHEMe/pull/388) ([gucio321](https://github.com/gucio321))
+- Revert "code cleanup" [\#387](https://github.com/gucio321/sCHEMe/pull/387) ([gucio321](https://github.com/gucio321))
+- Fix bugs in reaction editor [\#386](https://github.com/gucio321/sCHEMe/pull/386) ([gucio321](https://github.com/gucio321))
+- code cleanup [\#385](https://github.com/gucio321/sCHEMe/pull/385) ([gucio321](https://github.com/gucio321))
+- all: update namespaces [\#384](https://github.com/gucio321/sCHEMe/pull/384) ([gucio321](https://github.com/gucio321))
 - Reaction editor: fixes [\#383](https://github.com/gucio321/sCHEMe/pull/383) ([gucio321](https://github.com/gucio321))
 - scripts: restrict some code for editor only - fix build errors [\#382](https://github.com/gucio321/sCHEMe/pull/382) ([gucio321](https://github.com/gucio321))
 

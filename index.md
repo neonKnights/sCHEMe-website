@@ -46,6 +46,11 @@ Zespół Neon Knights <neonknightsstudios@gmail.com>
 
 # PODZIĘKOWANIA
 
+
 Podziękowania dla [Fundacji Fundusz Lokalny Ziemi Biłgorajskiej](https://flzb.lbl.pl)
 za współfinansowanie sprzętu komputerowego wykorzystywanego podczas
 pracy nad projektem.
+
+<div style="text-align: center">
+<image src="https://www.flzb.lbl.pl/assets/images/logo.jpg"></image>
+</div>
