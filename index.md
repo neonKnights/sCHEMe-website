@@ -33,6 +33,12 @@ tym przedstawieniu.
 - [Zadania](./tasks.md)
 - [Materiały dodatkowe](./extras.md)
 
+# STATUS
+
+ON-HOLD - development został wstrzymany z nieobecności developerów, we wrześniu planujemy
+jednak udostępnić prototyp gry na platformie itch.io oraz - prawdopodobnie - kontynuować
+rozwój projektu.
+
 # Kontakt
 
 Jeśli masz jakieś uwagi na temat strony lub gry, przyszły ci na myśl
