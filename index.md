@@ -24,6 +24,17 @@ tym przedstawieniu.
 
 <iframe style="center" width="560" height="315" src="https://www.youtube.com/embed/KysGj_EtDaw?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+# ZAGRAJ JUŻ DZIŚ!
+
+Szanowni państwo, miło nam poinformować, że
+S(CHEM)E został oficialnie opublikowany na platformie itch.io!
+Już dziś, możecie wyprubować najnowszą wersję gry:
+
+<iframe frameborder="0" src="https://itch.io/embed/1579663?bg_color=180a46&amp;fg_color=ffffff&amp;link_color=fa5c5c&amp;border_color=333333" width="552" height="167"><a href="https://gucio321.itch.io/scheme">S(CHEM)E by M. Sz.</a></iframe>
+
+życzymy miłej zabawy, \
+Redakcja Neon Knights Studios <neonknightsstudios@gmail.com>
+
 # SPIS TREŚCI
 
 - [Buildy](./build.md)
